@@ -1,0 +1,101 @@
+IT'S SHOWTIME
+    HEY CHRISTMAS TREE option
+    YOU SET US UP -1
+
+    GET YOUR ASS TO MARS option
+    DO IT NOW displayOptions
+
+    HEY CHRISTMAS TREE isOptionOne
+    YOU SET US UP -1
+
+    HEY CHRISTMAS TREE isOptionTwo
+    YOU SET US UP -1
+
+    HEY CHRISTMAS TREE isOptionThree
+    YOU SET US UP -1
+
+    GET TO THE CHOPPER isOptionOne
+        HERE IS MY INVITATION option
+        YOU ARE NOT YOU YOU ARE ME 1
+    ENOUGH TALK
+
+    GET TO THE CHOPPER isOptionTwo
+        HERE IS MY INVITATION option
+        YOU ARE NOT YOU YOU ARE ME 2
+    ENOUGH TALK
+
+    GET TO THE CHOPPER isOptionThree
+        HERE IS MY INVITATION option
+        YOU ARE NOT YOU YOU ARE ME 3
+    ENOUGH TALK
+
+    BECAUSE I'M GOING TO SAY PLEASE isOptionOne
+        DO IT NOW drawChopper
+    YOU HAVE NO RESPECT FOR LOGIC
+
+    BECAUSE I'M GOING TO SAY PLEASE isOptionTwo
+        DO IT NOW drawGun
+    YOU HAVE NO RESPECT FOR LOGIC
+
+    BECAUSE I'M GOING TO SAY PLEASE isOptionThree
+        DO IT NOW drawRobot       
+    YOU HAVE NO RESPECT FOR LOGIC
+
+    TALK TO THE HAND "You have been terminated by Skynet"
+
+YOU HAVE BEEN TERMINATED
+
+
+LISTEN TO ME VERY CAREFULLY displayOptions
+    GIVE THESE PEOPLE AIR
+
+    TALK TO THE HAND "HeLLO to ARnold ShaWReniga eSSentiAls drAwer"
+    TALK TO THE HAND "SeLect what to drAW"
+    TALK TO THE HAND "1. CHOPAAA (Get to the)"
+    TALK TO THE HAND "2. Gun (If it bleeds, we can.. kill it)"
+    TALK TO THE HAND "3. Terminator (You have been terminated)"
+
+    HEY CHRISTMAS TREE option
+    YOU SET US UP -1
+
+    GET YOUR ASS TO MARS option
+    DO IT NOW
+    I WANT TO ASK YOU A BUNCH OF QUESTIONS AND I WANT TO HAVE THEM ANSWERED IMMEDIATELY
+    I'LL BE BACK option
+
+HASTA LA VISTA, BABY
+
+LISTEN TO ME VERY CAREFULLY drawChopper
+    TALK TO THE HAND "---------------+---------------"
+    TALK TO THE HAND "      ___ /^^[___              _"
+    TALK TO THE HAND "     /|^+----+   |#___________//"
+    TALK TO THE HAND "   ( -+ |____|    ______-----+/"
+    TALK TO THE HAND "    ==_________--'             "
+    TALK TO THE HAND "      ~_|___|__"
+
+HASTA LA VISTA, BABY
+
+LISTEN TO ME VERY CAREFULLY drawGun
+    TALK TO THE HAND " ,________________________________"       
+    TALK TO THE HAND "|__________,----------._ [____]  ''-,__  __...-----==="
+    TALK TO THE HAND "        (_(||||||||||||)___________/   ''             |"
+    TALK TO THE HAND "           `----------'        [ ))'-,                |"
+    TALK TO THE HAND "                                ''    `,  _,--...___  |"
+    TALK TO THE HAND "                                        `/          '''"
+HASTA LA VISTA, BABY
+
+LISTEN TO ME VERY CAREFULLY drawRobot
+    TALK TO THE HAND "   __,_,"
+    TALK TO THE HAND "  [_|_/ "
+    TALK TO THE HAND "   //"
+    TALK TO THE HAND " _//    __"
+    TALK TO THE HAND "(_|)   |@@|"
+    TALK TO THE HAND " | |__ |--/ __"
+    TALK TO THE HAND "  |o__|----|  |    __"
+    TALK TO THE HAND "      | }{ / | )_ / _|"
+    TALK TO THE HAND "      /|__/| |__O (__"
+    TALK TO THE HAND "     (--/|--)    |__/"
+    TALK TO THE HAND "     _)(  |(_"
+    TALK TO THE HAND "    `---''---`"
+HASTA LA VISTA, BABY
+
